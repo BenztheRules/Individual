@@ -1,5 +1,9 @@
 Individual
 ==========
+Links for Things to use in this project:
+
+http://embed.ly/docs/tutorials/gif
+
 Links for tutorials on origami:
 
 \/\/\/SAVAGE BEASTS\/\/\/
